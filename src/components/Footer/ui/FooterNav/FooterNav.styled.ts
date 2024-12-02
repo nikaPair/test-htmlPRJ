@@ -89,4 +89,6 @@ export const LinksList = styled.ul`
     font-wight: regular;
 `;
 export const ListElement = styled.li``;
-export const Link = styled.a``;
+export const Link = styled.a`
+    color: #fff;
+`;
