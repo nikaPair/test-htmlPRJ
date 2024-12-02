@@ -40,8 +40,8 @@ const FooterBottom = () => {
                 </LinksList>
 
                 <CConfidentiality>
-                    <Text>Политика конфиденциальности</Text>
-                    <Text>Карта сайта</Text>
+                    <Text href='#'>Политика конфиденциальности</Text>
+                    <Text href='#'>Карта сайта</Text>
                 </CConfidentiality>
             </CBottomContainer>
         </CFooterBottom>

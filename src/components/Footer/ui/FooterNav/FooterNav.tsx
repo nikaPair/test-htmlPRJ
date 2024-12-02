@@ -32,13 +32,13 @@ const FooterNav = () => {
                         <LinksTitle>Платформа</LinksTitle>
                         <LinksList>
                             <ListElement>
-                                <Link>ElcoreStore</Link>
+                                <Link href='#'>ElcoreStore</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>ElcoreCloud</Link>
+                                <Link href='#'>ElcoreCloud</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>ElcoreIDE</Link>
+                                <Link href='#'>ElcoreIDE</Link>
                             </ListElement>
                         </LinksList>
                     </LinksContainer>
@@ -46,19 +46,19 @@ const FooterNav = () => {
                         <LinksTitle>Обучение и ресурсы</LinksTitle>
                         <LinksList>
                             <ListElement>
-                                <Link>Что такое ElcorePLC</Link>
+                                <Link href='#'>Что такое ElcorePLC</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>Документация</Link>
+                                <Link href='#'>Документация</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>Обучающие материалы</Link>
+                                <Link href='#'>Обучающие материалы</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>Примеры использования</Link>
+                                <Link href='#'>Примеры использования</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>База знаний</Link>
+                                <Link href='#'>База знаний</Link>
                             </ListElement>
                         </LinksList>
                     </LinksContainer>
@@ -66,16 +66,16 @@ const FooterNav = () => {
                         <LinksTitle className='personal'>Личный кабинет</LinksTitle>
                         <LinksList>
                             <ListElement>
-                                <Link>Контакты</Link>
+                                <Link href='#'>Контакты</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>Новости и статьи</Link>
+                                <Link href='#'>Новости и статьи</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>Сообщество (Форум)</Link>
+                                <Link href='#'>Сообщество (Форум)</Link>
                             </ListElement>
                             <ListElement>
-                                <Link>Тех поддержка</Link>
+                                <Link href='#'>Тех поддержка</Link>
                             </ListElement>
                         </LinksList>
                     </LinksContainer>
