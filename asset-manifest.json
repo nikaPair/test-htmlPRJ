@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/test-htmlPRJ/static/css/main.67442fc6.css",
+    "main.js": "/test-htmlPRJ/static/js/main.57c53cc5.js",
+    "static/media/vk.svg": "/test-htmlPRJ/static/media/vk.1667b61dd03ae4c9fff26820a43a56ff.svg",
+    "static/media/dz.svg": "/test-htmlPRJ/static/media/dz.8705369405c1c3482c4a6e370ff9b6d8.svg",
+    "static/media/tg.svg": "/test-htmlPRJ/static/media/tg.c9bec416ab85003bc695f6076ce1a1cf.svg",
+    "static/media/star.svg": "/test-htmlPRJ/static/media/star.0450b8e4fc942f7685fbb275555619ce.svg",
+    "static/media/shopping-cart.svg": "/test-htmlPRJ/static/media/shopping-cart.0078819b4c473eacd6bcaac1023b8690.svg",
+    "static/media/yt.svg": "/test-htmlPRJ/static/media/yt.93475c4c73069005593259687dcbacb0.svg",
+    "index.html": "/test-htmlPRJ/index.html",
+    "main.67442fc6.css.map": "/test-htmlPRJ/static/css/main.67442fc6.css.map",
+    "main.57c53cc5.js.map": "/test-htmlPRJ/static/js/main.57c53cc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67442fc6.css",
+    "static/js/main.57c53cc5.js"
+  ]
+}
